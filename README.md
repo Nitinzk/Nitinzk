@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nitin
 - 👀 I’m interested in programming languages 
+- recently learned the python basics
 - 🌱 I’m currently learning css
 - 📫 reach me on whatsapp
   
